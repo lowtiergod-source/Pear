@@ -48,5 +48,7 @@ pie
     "PPods"        : 80
     "PMac"         : 240
 ```
-[![Map](https://maps.googleapis.com/maps/api/staticmap?center=Sydney,Australia&zoom=13&size=600x300&maptype=roadmap
-)](https://www.google.com/maps/place/Sydney,+Australia)
+### 🗺️ Our Location
+
+[![Sydney Map](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Australia_Sydney_location_map.svg/600px-Australia_Sydney_location_map.svg.png)](https://www.google.com/maps/place/Sydney,+Australia)
+
