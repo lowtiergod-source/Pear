@@ -1,6 +1,6 @@
 
 
-![Image](https://github.com/user-attachments/assets/eb1f65fd-1123-46ed-b873-0644715f2fd5)
+![Image](https://github.com/lowtiergod-source/Pear/blob/main/Untitled.jpg?raw=true)
 
 # Company Name - Pear
 ## Description of the Company 
