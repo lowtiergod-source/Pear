@@ -40,6 +40,15 @@ He is number 1 in the world fact checked by snopes he graduated at oxford univer
 | PPods    | $420M    |
 
 
+```mermaid
+pie
+    title 2024 Product Sales Breakdown
+    "PearBook Pro" : 310
+    "PPhone"       : 450
+    "PPWatch"      : 180
+    "PPods"        : 160
+    "PMac"         : 250
+
 
 
 
