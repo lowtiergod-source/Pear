@@ -33,6 +33,7 @@ He is number 1 in the world fact checked by snopes he graduated at oxford univer
 # Additional information
 - We are a original company, we are the best in the industry, we are currently in a lawsuit with apple for copyright infringement
 
+|2024 PRODUCT SALES |
 | Products    | Sales |
 | -------- | ------- |
 | PPhone  | $250M    |
