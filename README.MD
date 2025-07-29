@@ -33,7 +33,7 @@ He is number 1 in the world fact checked by snopes he graduated at oxford univer
 # Additional information
 - We are a original company, we are the best in the industry, we are currently in a lawsuit with apple for copyright infringement
 
-|2024 PRODUCT SALES |
+## 2024 PRODUCT SALES
 | Products    | Sales |
 | -------- | ------- |
 | PPhone  | $250M    |
@@ -47,8 +47,17 @@ pie
     "PPhone"       : 250
     "PPods"        : 80
     "PMac"         : 240
+```
 
+```mermaid
+bar
+    title Annual Revenue by Product (2020–2024)
+    x-axis 2020 2021 2022 2023 2024
+    y-axis 0 100k 200k 300k 400k 500k 600k
 
-
-
-
+    "PearBook Pro" 200k 220k 250k 280k 310k
+    "PPhone"       150k 200k 300k 400k 450k
+    "PPWatch"      80k 100k 130k 160k 180k
+    "PPods"        60k 90k 120k 140k 160k
+    "PMac"         100k 130k 180k 200k 250k
+```
