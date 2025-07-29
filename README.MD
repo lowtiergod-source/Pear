@@ -3,6 +3,18 @@
 ![Image](https://github.com/lowtiergod-source/Pear/blob/main/istockphoto-506538601-612x612.jpg?raw=true)
 
 # Company Name - Pear
+
+## TABLE OF CONTENTS
+- [Description of the Company](#description-of-the-company)
+- [Team Members and Staff](#team-members-and-staff)
+- [Mission Statement](#our-mission-statement)
+- [Products and Services](#our-products-and-services)
+- [2024 Product Sales](#2024-product-sales)
+- [Company Map](#company-map)
+- [Contact](#contact)
+- [Legal](#additional-information)
+
+
 ## Description of the Company 
 - We are a bleeding edge technology company at the forefront of developing the next generation of Mobile phones
 ## Team members and staff
@@ -48,7 +60,5 @@ pie
     "PPods"        : 80
     "PMac"         : 240
 ```
-### 🗺️ Our Location
 
-[![Sydney Map](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Australia_Sydney_location_map.svg/600px-Australia_Sydney_location_map.svg.png)](https://www.google.com/maps/place/Sydney,+Australia)
 
