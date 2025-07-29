@@ -33,10 +33,10 @@ He is number 1 in the world fact checked by snopes he graduated at oxford univer
 # Additional information
 - We are a original company, we are the best in the industry, we are currently in a lawsuit with apple for copyright infringement
 
-| Month    | Savings |
+| Products    | Sales |
 | -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+| PPHone  | $250M    |
+| PPMac | $80M     |
+| PPods    | $420M    |
 
 
