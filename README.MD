@@ -32,3 +32,8 @@ He is number 1 in the world fact checked by snopes he graduated at oxford univer
 - PMagicMouse
 # Additional information
 - We are a original company, we are the best in the industry, we are currently in a lawsuit with apple for copyright infringement
+
+
+
+
+<pre> ```mermaid bar title Yearly Sales Overview x-axis 2020 2021 2022 2023 2024 y-axis 0 20k 40k 60k 80k 100k "Product A" 30k 45k 55k 70k 90k "Product B" 20k 25k 35k 50k 60k "Product C" 10k 30k 40k 45k 50k ``` </pre>
