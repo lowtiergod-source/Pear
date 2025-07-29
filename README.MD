@@ -32,8 +32,10 @@ He is number 1 in the world fact checked by snopes he graduated at oxford univer
 - PMagicMouse
 # Additional information
 - We are a original company, we are the best in the industry, we are currently in a lawsuit with apple for copyright infringement
-| PPhone sales  | PPmac sales |
-| ------------- | ------------- |
-| 5 billion sales  | 5 million sales  |
+| Product |  Sales  |
+|:-----|:--------:|
+| PPhone   | 30$ Million | 
+| PPmac   |  20$ Million  | 
+| PPods   | 10$ Million | 
 
 
