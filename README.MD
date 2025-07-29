@@ -11,7 +11,7 @@
 - Jesse - Developer
 -  Mohammed - Data Analyst
 ## Our mission statement
-- We pledge allegience to the United Phones of America, one OS and sim cards of all
+- We pledge allegience to the United Phones of America, one OS and sim cards for all
 ## Our products and services
 - PearCare
 - Pear Vision Pro 
