@@ -42,6 +42,7 @@ He is number 1 in the world fact checked by snopes he graduated at oxford univer
 - PMac 
 - PPad 
 - PMagicMouse
+
 # Additional information
 - We are a original company, we are the best in the industry, we are currently in a lawsuit with apple for copyright infringement
 
@@ -60,5 +61,12 @@ pie
     "PPods"        : 80
     "PMac"         : 240
 ```
+
+
+## License
+
+© 2025 Pear Inc. All Rights Reserved. No Apples were harmed in the making of this README.
+
+
 
 
